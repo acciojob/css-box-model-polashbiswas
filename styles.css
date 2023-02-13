@@ -1,8 +1,8 @@
-.box{
-	width:300px;
-	background-color:lightblue;
-	padding: 50px;
-	border: 15px solid blue;
+.box3{
 	margin: 20px;
+	border: 15px solid blue;
+	width: 300px;
+	padding: 50px;
+	background:lightblue;
 }
 /* Your CSS Code here. */
